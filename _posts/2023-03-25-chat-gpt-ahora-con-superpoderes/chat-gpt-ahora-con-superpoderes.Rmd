@@ -1,0 +1,29 @@
+---
+title: "Chat-GPT: Ahora con superpoderes"
+description: |
+  Se ha anunciado la incorporación de plugins a GPT, lo que le permite tener acceso a una gran variedad de servicios externos. Esto permite que los modelos de lenguaje, como GPT, superen las limitaciones de los datos de entrenamiento utilizados. Ahora, GPT tendrá acceso a servicios fiscales, reservas de vuelos, creación de automatizaciones y mucho más.
+author:
+  - name: Deep Thinking 
+    url: https://deepthinking.com.co/
+date: 03-25-2023
+output:
+  distill::distill_article:
+  self_contained: false
+preview: gpt.jpg
+
+---
+
+OpenAI ha anunciado nuevos plugins que permiten a su modelo de lenguaje GPT adquirir una serie de superpoderes, lo que le permite hacer tareas que antes no podía hacer, como reservar vuelos, comprar productos, editar imágenes y videos, explorar internet, programar y ejecutar código, entre otros. Estos plugins están diseñados para conectarse a diferentes servicios externos y proporcionar a GPT acceso a una cantidad infinita de datos en tiempo real. Además, los desarrolladores pueden crear sus propios plugins para agregar nuevas habilidades al modelo de lenguaje.
+
+OpenAI destaca que los plugins permiten que GPT supere las limitaciones que tenía antes, ya que estaba limitado por los datos de entrenamiento que se utilizaron para su desarrollo. Ahora, gracias a los plugins, el modelo de lenguaje puede acceder a una gran cantidad de información actualizada y servicios externos en tiempo real.
+
+![Foto de Pavel Danilyuk, vía [Pexels](https://www.pexels.com)](gpt.jpg)
+
+
+Entre las nuevas habilidades, se encuentran la capacidad de explorar la web para buscar información actualizada, procesar imágenes y videos, realizar análisis de datos y ejecutar código. También se mencionan algunos plugins disponibles actualmente, como Kayak para reservar vuelos, Instacart para hacer compras y Sapir para automatizar procesos.
+
+Adicionalmente, se tienen actualización con respecto a la seguridad de los plugins y cómo se están abordando las preocupaciones sobre la posibilidad de un mal uso de esta tecnología. Además, se señala que en un futuro próximo, los desarrolladores pueden crear sus propios plugins y se proporciona información sobre cómo hacerlo.
+
+En resumen, el modelo GPT, en su próxima entrega, tendrá superpoderes, a través de plugins que le permiten realizar una amplia gama de tareas, abriendo nuevas posibilidades para el modelo de lenguaje y superando las limitaciones que tenía anteriormente. También se aborda la seguridad de los plugins y se proporciona información para los desarrolladores interesados en crear sus propios plugins.
+
+Fuente: [ChatGPT ahora tiene superpoderes](https://youtu.be/OC888STwrlU)
