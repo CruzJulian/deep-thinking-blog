@@ -11,3 +11,4 @@ navbar:
   - text: "Inicio"
     href: index.html
 output: distill::distill_article
+

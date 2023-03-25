@@ -1,0 +1,16 @@
+---
+title: "Bienvenidos a Deep Thinking"
+description: |
+  Este es nuestro blog. Estaremos generando contenido desde aqui.
+author:
+  - name: Deep Thinking 
+    url: https://deepthinking.com.co/
+date: 03-25-2023
+output:
+  distill::distill_article:
+  self_contained: false
+preview: logo.jpg
+
+---
+
+![](logo.jpg)

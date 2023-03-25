@@ -27,3 +27,4 @@ Adicionalmente, se tienen actualización con respecto a la seguridad de los plug
 En resumen, el modelo GPT, en su próxima entrega, tendrá superpoderes, a través de plugins que le permiten realizar una amplia gama de tareas, abriendo nuevas posibilidades para el modelo de lenguaje y superando las limitaciones que tenía anteriormente. También se aborda la seguridad de los plugins y se proporciona información para los desarrolladores interesados en crear sus propios plugins.
 
 Fuente: [ChatGPT ahora tiene superpoderes](https://youtu.be/OC888STwrlU)
+
