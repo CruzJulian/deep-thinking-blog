@@ -1,0 +1,5 @@
+---
+title: "Deep Thinking"
+site: distill::distill_website
+listing: posts
+---
