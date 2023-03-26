@@ -1,0 +1,27 @@
+---
+title: "Hasta el 31 de marzo, podrás estudiar inteligencia artificial gratis en Platzi"
+description: |
+  La plataforma de formación en línea Platzi ha lanzado un curso gratuito de introducción a la inteligencia artificial, que estará disponible para su acceso hasta el 31 de marzo. El curso se enfoca en herramientas representativas de IA, como el chatbot y el generador de imágenes de OpenAI, así como la plataforma de alojamiento y ejecución de modelos de IA Hugging Face. Además, el curso incluye conceptos clave en la IA, como 'data science', 'machine learning', 'deep learning' y 'procesamiento de lenguaje natural', y también se aborda el papel que tienen las matemáticas y la ética en el uso de datos para la IA.
+author:
+  - name: Deep Thinking 
+    url: https://deepthinking.com.co/
+date: 03-27-2023
+output:
+  distill::distill_article:
+  self_contained: false
+preview: ia.jpg
+
+---
+
+La plataforma de formación en línea Platzi acaba de lanzar un curso gratuito de introducción a la inteligencia artificial, disponible hasta finales de marzo. Esta iniciativa resulta especialmente relevante en un momento en que la IA está en pleno auge, con herramientas como ChatGPT y plataformas para la generación de imágenes. Para muchos usuarios, mantenerse al día en este ámbito puede resultar un desafío, ya que el ritmo de lanzamiento de nuevas plataformas y funciones es frenético.
+
+A pesar de que hay muchos cursos disponibles sobre IA, no siempre son de calidad y, además, suelen ser muy costosos. Por eso, el lanzamiento de este curso por parte de una plataforma reconocida como Platzi es una excelente noticia. El temario no pretende abarcar todo el catálogo de herramientas de IA que han surgido en los últimos meses, sino que se centra en algunas de las más relevantes, como el chatbot y el generador de imágenes de OpenAI, y la plataforma de alojamiento y ejecución de modelos de IA Hugging Face.
+
+![Foto de cottonbro studio, vía [Pexels](https://www.pexels.com)](ia.jpg)
+
+El curso también introduce al estudiante en conceptos clave como data science, machine learning, deep learning y procesamiento de lenguaje natural, y aborda la ética en el uso de datos. En total, el curso consta de 3 horas de contenidos en vídeo y 14 horas destinadas a la práctica, además de acceso a proyectos y tutoriales creados y publicados por otros estudiantes. Para registrarse en la plataforma y acceder al curso, solo es necesario proporcionar nombre y correo electrónico.
+
+En resumen, el curso gratuito de introducción a la IA de Platzi es una oportunidad excelente para aprender sobre este tema tan importante y en constante evolución. Además, la plataforma es reconocida por su calidad y su enfoque práctico, por lo que se trata de una opción muy recomendable para cualquier persona interesada en este campo.
+
+Link al curso: [Curso Gratis de Inteligencia Artificial: ChatGPT, DALL-E y Hugging Face](https://platzi.com/cursos/ai/)
+

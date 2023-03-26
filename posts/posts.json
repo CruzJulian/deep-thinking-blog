@@ -1,22 +1,5 @@
 [
   {
-    "path": "posts/2023-03-25-chat-gpt-ahora-con-superpoderes/",
-    "title": "Chat-GPT: Ahora con superpoderes",
-    "description": "Se ha anunciado la incorporación de plugins a GPT, lo que le permite tener acceso a una gran variedad de servicios externos. Esto permite que los modelos de lenguaje, como GPT, superen las limitaciones de los datos de entrenamiento utilizados. Ahora, GPT tendrá acceso a servicios fiscales, reservas de vuelos, creación de automatizaciones y mucho más.",
-    "author": [
-      {
-        "name": "Deep Thinking",
-        "url": "https://deepthinking.com.co/"
-      }
-    ],
-    "date": "2023-03-25",
-    "categories": [],
-    "contents": "\nOpenAI ha anunciado nuevos plugins que permiten a su modelo de lenguaje GPT adquirir una serie de superpoderes, lo que le permite hacer tareas que antes no podía hacer, como reservar vuelos, comprar productos, editar imágenes y videos, explorar internet, programar y ejecutar código, entre otros. Estos plugins están diseñados para conectarse a diferentes servicios externos y proporcionar a GPT acceso a una cantidad infinita de datos en tiempo real. Además, los desarrolladores pueden crear sus propios plugins para agregar nuevas habilidades al modelo de lenguaje.\nOpenAI destaca que los plugins permiten que GPT supere las limitaciones que tenía antes, ya que estaba limitado por los datos de entrenamiento que se utilizaron para su desarrollo. Ahora, gracias a los plugins, el modelo de lenguaje puede acceder a una gran cantidad de información actualizada y servicios externos en tiempo real.\nFoto de Pavel Danilyuk, vía PexelsEntre las nuevas habilidades, se encuentran la capacidad de explorar la web para buscar información actualizada, procesar imágenes y videos, realizar análisis de datos y ejecutar código. También se mencionan algunos plugins disponibles actualmente, como Kayak para reservar vuelos, Instacart para hacer compras y Sapir para automatizar procesos.\nAdicionalmente, se tienen actualización con respecto a la seguridad de los plugins y cómo se están abordando las preocupaciones sobre la posibilidad de un mal uso de esta tecnología. Además, se señala que en un futuro próximo, los desarrolladores pueden crear sus propios plugins y se proporciona información sobre cómo hacerlo.\nEn resumen, el modelo GPT, en su próxima entrega, tendrá superpoderes, a través de plugins que le permiten realizar una amplia gama de tareas, abriendo nuevas posibilidades para el modelo de lenguaje y superando las limitaciones que tenía anteriormente. También se aborda la seguridad de los plugins y se proporciona información para los desarrolladores interesados en crear sus propios plugins.\nFuente: ChatGPT ahora tiene superpoderes\n\n\n\n",
-    "preview": "posts/2023-03-25-chat-gpt-ahora-con-superpoderes/gpt.jpg",
-    "last_modified": "2023-03-25T14:29:32-05:00",
-    "input_file": {}
-  },
-  {
     "path": "posts/2023-03-25-el-desastre-del-challenger-cuando-las-fallas-de-informacin-cuestan-vidas-humanas/",
     "title": "El desastre del Challenger: Cuando las fallas de información cuestan vidas humanas",
     "description": "El desastre del Challenger, ocurrido el 28 de enero de 1986, fue una lección trágica sobre la importancia del análisis de datos en la toma de decisiones críticas. El incidente fue causado por la destrucción de los sellos que se utilizan para evitar fugas de gases calientes en la sección del motor sólido del transbordador espacial. Los investigadores descubrieron que el problema fue causado por una predicción inadecuada del comportamiento de los sellos a temperaturas más frías durante la misión 51-L del Challenger.",
@@ -26,11 +9,62 @@
         "url": "https://deepthinking.com.co/"
       }
     ],
-    "date": "2023-03-25",
+    "date": "2023-03-30",
     "categories": [],
     "contents": "\nEl desastre del Challenger, ocurrido el 28 de enero de 1986, fue causado por la destrucción de los sellos que impiden que los gases calientes escapen de los cohetes. La atención se centró rápidamente en los anillos de goma que se utilizan para sellar la unión entre dos secciones del motor del cohete: el “tang” y el “clevis”. Los anillos de goma deben ser lo suficientemente flexibles para comprimirse y expandirse en milisegundos, y su resiliencia está directamente relacionada con la temperatura. Los investigadores descubrieron que un anillo de goma comprimido es cinco veces más sensible a 75 grados Fahrenheit que a 30 grados Fahrenheit. Sin embargo, la temperatura en el momento del lanzamiento del Challenger era de solo 36 grados Fahrenheit, lo que probablemente impidió que los anillos de goma se comprimieran y expandieran adecuadamente, permitiendo que los gases escaparan y destruyeran el cohete.\nPero, ¿por qué los ingenieros no detuvieron el lanzamiento dado el clima frío? Intentaron hacerlo, pero no tenían suficientes datos. No sabían qué sucedería con los anillos de goma en un día donde la temperatura era 15 grados más fría que en cualquier otro lanzamiento anterior. Un análisis rápido de los datos de lanzamientos anteriores permitiría una decisión certera. No obstante, solo consideraron los casos donde hubo signos de problemas con los anillos de goma, lo que limitó los datos a solo siete de los 24 lanzamientos hasta ese momento.\nLanzamiento del ChallengerEn retrospectiva, los ingenieros deberían haber analizado todos los datos sobre el rendimiento de los anillos de goma, no solo los casos con problemas. Cuando se analizan todos los datos, incluidos los vuelos sin incidentes, se puede ver claramente que la temperatura afectó el rendimiento de los anillos de goma. Por encima de los 65 grados, solo 3 de los 20 vuelos tuvieron incidentes, mientras que por debajo de los 65 grados, los 4 vuelos tuvieron incidentes.\nEste error de análisis de datos es un ejemplo clásico de cómo la falta de rigor en el tratamiento de la información, incluso con las mejores intenciones, puede contribuir a resultados desastrosos. La lección aprendida aquí es que se deben considerar todos los datos disponibles al responder preguntas específicas, y no solo una selección parcial de los mismos.\nEn conclusión, el desastre del Challenger nos recuerda la importancia de analizar cuidadosamente los datos y de no tomar decisiones basadas en una muestra parcial de los mismos. Es crucial considerar todos los datos disponibles al responder preguntas específicas para evitar consecuencias catastróficas.\nFuente: The Challenger disaster: A tragic lesson in data analysis\nModelo predictivo: Challenger O-Ring Data – Logistic Regression\n\n\n\n",
     "preview": "https://kenhoma.files.wordpress.com/2016/05/clip_image0028.jpg",
-    "last_modified": "2023-03-25T19:57:51-05:00",
+    "last_modified": "2023-03-25T20:41:11-05:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2023-03-25-cmo-personaliza-netflix-tu-bandeja-de-entrada-usando-procesos-de-datos/",
+    "title": "¿Cómo personaliza Netflix tu bandeja de entrada usando procesos de datos?",
+    "description": "Netflix está personalizando la experiencia de sus usuarios, y para ello utiliza imágenes, trailers y sinopsis de títulos que son más relevantes y atractivos para cada usuario. Para crear suites de arte relevantes, atractivas y auténticas, Netflix combina el conocimiento de expertos en estrategia y diseño con herramientas de análisis de datos para identificar las tendencias.",
+    "author": [
+      {
+        "name": "Deep Thinking",
+        "url": "https://deepthinking.com.co/"
+      }
+    ],
+    "date": "2023-03-29",
+    "categories": [],
+    "contents": "\nNetflix utiliza un algoritmo de personalización de imágenes para mostrar a sus usuarios las portadas, trailers y sinopsis más relevantes de las películas y series disponibles. En un artículo reciente publicado en su blog, la compañía explica cómo se crean estas imágenes y por qué son importantes para la experiencia del usuario.\nLa publicidad es fundamental para que los usuarios descubran nuevos títulos en la plataforma, pero no quieren que la publicidad sea engañosa. Por lo tanto, se requiere un enfoque cuidadoso para asegurarse de que las imágenes de promoción sean atractivas y relevantes para el usuario, al mismo tiempo que reflejen auténticamente el contenido del título.\nDistintas portadas para una misma producción.Para desarrollar las mejores imágenes, Netflix trabaja con estrategas y diseñadores creativos que tienen un conocimiento íntimo de los títulos que se promocionan, junto con una serie de herramientas que ayudan a identificar las tendencias en el rendimiento de la publicidad anterior. A través de un enfoque de colaboración entre el equipo de creadores y el equipo de análisis de datos, se puede lograr una combinación de arte y ciencia que permita desarrollar la mejor publicidad.\nPara crear las imágenes, Netflix utiliza dos enfoques diferentes: el enfoque de arriba hacia abajo, en el que se identifican de antemano las propiedades de la imagen que se investigarán en función de las creencias iniciales, y el enfoque de abajo hacia arriba, en el que se permite que los datos revelen tendencias importantes de manera natural.\nEn el enfoque de arriba hacia abajo, Netflix utiliza una descripción detallada de la imagen utilizando atributos y características que se han identificado como importantes en el pasado. Se utilizan técnicas de aprendizaje automático para modelar estas características, que van desde características básicas como el color y la textura hasta características más complejas como la composición y las expresiones faciales. Este enfoque proporciona una comprensión detallada de lo que hace que una imagen sea efectiva y ayuda a los creadores a desarrollar imágenes que sean visualmente atractivas y relevantes para el usuario.\nEn el enfoque de abajo hacia arriba, Netflix permite que los datos identifiquen tendencias y patrones importantes en el rendimiento de la publicidad anterior. Se agrupan imágenes similares y se analizan en conjunto para identificar patrones importantes. Este enfoque es útil para identificar tendencias que no se habían considerado previamente y para descubrir nuevas formas de crear imágenes que sean atractivas y efectivas.\nEn general, la creación de imágenes de promoción es un proceso complejo que requiere una combinación de experiencia en el diseño y análisis de datos. Al utilizar enfoques de arriba hacia abajo y de abajo hacia arriba, Netflix puede desarrollar imágenes de alta calidad que sean relevantes y auténticas, al mismo tiempo que se ajustan a las necesidades de los usuarios.\nFuente: Discovering Creative Insights in Promotional Artwork\n\n\n\n",
+    "preview": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*Y9kntVhxsTY0PoQEcQ4yIQ.png",
+    "last_modified": "2023-03-25T20:41:03-05:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2023-03-25-chat-gpt-ahora-con-superpoderes/",
+    "title": "Chat-GPT: Ahora con superpoderes",
+    "description": "Se ha anunciado la incorporación de plugins a GPT, lo que le permite tener acceso a una gran variedad de servicios externos. Esto permite que los modelos de lenguaje, como GPT, superen las limitaciones de los datos de entrenamiento utilizados. Ahora, GPT tendrá acceso a servicios fiscales, reservas de vuelos, creación de automatizaciones y mucho más.",
+    "author": [
+      {
+        "name": "Deep Thinking",
+        "url": "https://deepthinking.com.co/"
+      }
+    ],
+    "date": "2023-03-28",
+    "categories": [],
+    "contents": "\nOpenAI ha anunciado nuevos plugins que permiten a su modelo de lenguaje GPT adquirir una serie de superpoderes, lo que le permite hacer tareas que antes no podía hacer, como reservar vuelos, comprar productos, editar imágenes y videos, explorar internet, programar y ejecutar código, entre otros. Estos plugins están diseñados para conectarse a diferentes servicios externos y proporcionar a GPT acceso a una cantidad infinita de datos en tiempo real. Además, los desarrolladores pueden crear sus propios plugins para agregar nuevas habilidades al modelo de lenguaje.\nOpenAI destaca que los plugins permiten que GPT supere las limitaciones que tenía antes, ya que estaba limitado por los datos de entrenamiento que se utilizaron para su desarrollo. Ahora, gracias a los plugins, el modelo de lenguaje puede acceder a una gran cantidad de información actualizada y servicios externos en tiempo real.\nFoto de Pavel Danilyuk, vía PexelsEntre las nuevas habilidades, se encuentran la capacidad de explorar la web para buscar información actualizada, procesar imágenes y videos, realizar análisis de datos y ejecutar código. También se mencionan algunos plugins disponibles actualmente, como Kayak para reservar vuelos, Instacart para hacer compras y Sapir para automatizar procesos.\nAdicionalmente, se tienen actualización con respecto a la seguridad de los plugins y cómo se están abordando las preocupaciones sobre la posibilidad de un mal uso de esta tecnología. Además, se señala que en un futuro próximo, los desarrolladores pueden crear sus propios plugins y se proporciona información sobre cómo hacerlo.\nEn resumen, el modelo GPT, en su próxima entrega, tendrá superpoderes, a través de plugins que le permiten realizar una amplia gama de tareas, abriendo nuevas posibilidades para el modelo de lenguaje y superando las limitaciones que tenía anteriormente. También se aborda la seguridad de los plugins y se proporciona información para los desarrolladores interesados en crear sus propios plugins.\nFuente: ChatGPT ahora tiene superpoderes\n\n\n\n",
+    "preview": "posts/2023-03-25-chat-gpt-ahora-con-superpoderes/gpt.jpg",
+    "last_modified": "2023-03-25T20:40:57-05:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2023-03-25-hasta-el-31-de-marzo-podrs-estudiar-inteligencia-artificial-gratis-en-platzi/",
+    "title": "Hasta el 31 de marzo, podrás estudiar inteligencia artificial gratis en Platzi",
+    "description": "La plataforma de formación en línea Platzi ha lanzado un curso gratuito de introducción a la inteligencia artificial, que estará disponible para su acceso hasta el 31 de marzo. El curso se enfoca en herramientas representativas de IA, como el chatbot y el generador de imágenes de OpenAI, así como la plataforma de alojamiento y ejecución de modelos de IA Hugging Face. Además, el curso incluye conceptos clave en la IA, como 'data science', 'machine learning', 'deep learning' y 'procesamiento de lenguaje natural', y también se aborda el papel que tienen las matemáticas y la ética en el uso de datos para la IA.",
+    "author": [
+      {
+        "name": "Deep Thinking",
+        "url": "https://deepthinking.com.co/"
+      }
+    ],
+    "date": "2023-03-27",
+    "categories": [],
+    "contents": "\nLa plataforma de formación en línea Platzi acaba de lanzar un curso gratuito de introducción a la inteligencia artificial, disponible hasta finales de marzo. Esta iniciativa resulta especialmente relevante en un momento en que la IA está en pleno auge, con herramientas como ChatGPT y plataformas para la generación de imágenes. Para muchos usuarios, mantenerse al día en este ámbito puede resultar un desafío, ya que el ritmo de lanzamiento de nuevas plataformas y funciones es frenético.\nA pesar de que hay muchos cursos disponibles sobre IA, no siempre son de calidad y, además, suelen ser muy costosos. Por eso, el lanzamiento de este curso por parte de una plataforma reconocida como Platzi es una excelente noticia. El temario no pretende abarcar todo el catálogo de herramientas de IA que han surgido en los últimos meses, sino que se centra en algunas de las más relevantes, como el chatbot y el generador de imágenes de OpenAI, y la plataforma de alojamiento y ejecución de modelos de IA Hugging Face.\nFoto de cottonbro studio, vía PexelsEl curso también introduce al estudiante en conceptos clave como data science, machine learning, deep learning y procesamiento de lenguaje natural, y aborda la ética en el uso de datos. En total, el curso consta de 3 horas de contenidos en vídeo y 14 horas destinadas a la práctica, además de acceso a proyectos y tutoriales creados y publicados por otros estudiantes. Para registrarse en la plataforma y acceder al curso, solo es necesario proporcionar nombre y correo electrónico.\nEn resumen, el curso gratuito de introducción a la IA de Platzi es una oportunidad excelente para aprender sobre este tema tan importante y en constante evolución. Además, la plataforma es reconocida por su calidad y su enfoque práctico, por lo que se trata de una opción muy recomendable para cualquier persona interesada en este campo.\nLink al curso: Curso Gratis de Inteligencia Artificial: ChatGPT, DALL-E y Hugging Face\n\n\n\n",
+    "preview": "posts/2023-03-25-hasta-el-31-de-marzo-podrs-estudiar-inteligencia-artificial-gratis-en-platzi/ia.jpg",
+    "last_modified": "2023-03-25T20:40:12-05:00",
     "input_file": {}
   },
   {
