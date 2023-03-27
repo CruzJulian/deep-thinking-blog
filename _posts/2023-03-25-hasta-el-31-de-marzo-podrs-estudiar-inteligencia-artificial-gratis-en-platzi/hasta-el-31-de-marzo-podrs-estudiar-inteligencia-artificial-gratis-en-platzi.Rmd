@@ -13,6 +13,18 @@ preview: ia.jpg
 
 ---
 
+
+```{r include=FALSE, results='asis'}
+library(metathis)
+
+meta() %>%
+  meta_social(
+    image = "ia.jpg",
+  )
+
+```
+
+
 La plataforma de formación en línea Platzi acaba de lanzar un curso gratuito de introducción a la inteligencia artificial, disponible hasta finales de marzo. Esta iniciativa resulta especialmente relevante en un momento en que la IA está en pleno auge, con herramientas como ChatGPT y plataformas para la generación de imágenes. Para muchos usuarios, mantenerse al día en este ámbito puede resultar un desafío, ya que el ritmo de lanzamiento de nuevas plataformas y funciones es frenético.
 
 A pesar de que hay muchos cursos disponibles sobre IA, no siempre son de calidad y, además, suelen ser muy costosos. Por eso, el lanzamiento de este curso por parte de una plataforma reconocida como Platzi es una excelente noticia. El temario no pretende abarcar todo el catálogo de herramientas de IA que han surgido en los últimos meses, sino que se centra en algunas de las más relevantes, como el chatbot y el generador de imágenes de OpenAI, y la plataforma de alojamiento y ejecución de modelos de IA Hugging Face.
