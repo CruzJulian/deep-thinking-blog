@@ -6,9 +6,10 @@ author:
   - name: Deep Thinking 
     url: https://deepthinking.com.co/
 date: 03-30-2023
+base_url: https://blog.deepthinking.com.co/posts/2023-03-25-el-desastre-del-challenger-cuando-las-fallas-de-informacin-cuestan-vidas-humanas/
 output:
   distill::distill_article:
-  self_contained: false
+    self_contained: false
 preview: https://kenhoma.files.wordpress.com/2016/05/clip_image0028.jpg
 
 ---

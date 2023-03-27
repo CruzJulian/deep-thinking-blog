@@ -6,20 +6,20 @@ author:
   - name: Deep Thinking 
     url: https://deepthinking.com.co/
 date: 03-27-2023
+base_url: https://blog.deepthinking.com.co/posts/2023-03-25-hasta-el-31-de-marzo-podrs-estudiar-inteligencia-artificial-gratis-en-platzi/
 output:
   distill::distill_article:
-  self_contained: false
+    self_contained: false
 preview: ia.jpg
 
 ---
 
-
-```{r include=FALSE, results='asis'}
-library(metathis)
+```{r include=FALSE, results='asis', eval=FALSE}
+library("metathis")
 
 meta() %>%
   meta_social(
-    image = "ia.jpg",
+    image = "posts/2023-03-25-hasta-el-31-de-marzo-podrs-estudiar-inteligencia-artificial-gratis-en-platzi/ia.jpg",
   )
 
 ```

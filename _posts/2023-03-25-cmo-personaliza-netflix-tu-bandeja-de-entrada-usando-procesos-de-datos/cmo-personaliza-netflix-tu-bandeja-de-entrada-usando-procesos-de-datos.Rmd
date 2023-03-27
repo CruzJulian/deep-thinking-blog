@@ -6,9 +6,10 @@ author:
   - name: Deep Thinking 
     url: https://deepthinking.com.co/
 date: 03-29-2023
+base_url: https://blog.deepthinking.com.co/posts/2023-03-25-cmo-personaliza-netflix-tu-bandeja-de-entrada-usando-procesos-de-datos/
 output:
   distill::distill_article:
-  self_contained: false
+    self_contained: false
 preview: https://miro.medium.com/v2/resize:fit:720/format:webp/1*Y9kntVhxsTY0PoQEcQ4yIQ.png
 
 ---

@@ -6,9 +6,10 @@ author:
   - name: Deep Thinking 
     url: https://deepthinking.com.co/
 date: 03-31-2023
+base_url: https://blog.deepthinking.com.co/posts/2023-03-25-estas-son-las-principales-tendencias-en-inteligencia-de-negocios/
 output:
   distill::distill_article:
-  self_contained: false
+    self_contained: false
 preview: trend.jpg
 
 ---
