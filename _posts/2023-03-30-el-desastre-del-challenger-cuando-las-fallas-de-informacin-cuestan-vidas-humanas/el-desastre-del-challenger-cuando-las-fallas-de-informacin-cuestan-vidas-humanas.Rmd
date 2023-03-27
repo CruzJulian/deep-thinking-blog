@@ -10,7 +10,7 @@ base_url: https://blog.deepthinking.com.co/posts/2023-03-30-el-desastre-del-chal
 output:
   distill::distill_article:
     self_contained: false
-preview: https://kenhoma.files.wordpress.com/2016/05/clip_image0028.jpg
+preview: challenger.jpg
 
 ---
 
