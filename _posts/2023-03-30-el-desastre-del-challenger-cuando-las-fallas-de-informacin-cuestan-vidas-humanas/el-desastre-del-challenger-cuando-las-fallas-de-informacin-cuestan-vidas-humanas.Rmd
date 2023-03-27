@@ -1,0 +1,32 @@
+---
+title: "El desastre del Challenger: Cuando las fallas de información cuestan vidas humanas"
+description: |
+  El desastre del Challenger, ocurrido el 28 de enero de 1986, fue una lección trágica sobre la importancia del análisis de datos en la toma de decisiones críticas. El incidente fue causado por la destrucción de los sellos que se utilizan para evitar fugas de gases calientes en la sección del motor sólido del transbordador espacial. Los investigadores descubrieron que el problema fue causado por una predicción inadecuada del comportamiento de los sellos a temperaturas más frías durante la misión 51-L del Challenger.
+author:
+  - name: Deep Thinking 
+    url: https://deepthinking.com.co/
+date: 03-30-2023
+base_url: https://blog.deepthinking.com.co/posts/2023-03-30-el-desastre-del-challenger-cuando-las-fallas-de-informacin-cuestan-vidas-humanas/
+output:
+  distill::distill_article:
+    self_contained: false
+preview: https://kenhoma.files.wordpress.com/2016/05/clip_image0028.jpg
+
+---
+
+El desastre del Challenger, ocurrido el 28 de enero de 1986, fue causado por la destrucción de los sellos que impiden que los gases calientes escapen de los cohetes. La atención se centró rápidamente en los anillos de goma que se utilizan para sellar la unión entre dos secciones del motor del cohete: el "tang" y el "clevis". Los anillos de goma deben ser lo suficientemente flexibles para comprimirse y expandirse en milisegundos, y su resiliencia está directamente relacionada con la temperatura. Los investigadores descubrieron que un anillo de goma comprimido es cinco veces más sensible a 75 grados Fahrenheit que a 30 grados Fahrenheit. Sin embargo, la temperatura en el momento del lanzamiento del Challenger era de solo 36 grados Fahrenheit, lo que probablemente impidió que los anillos de goma se comprimieran y expandieran adecuadamente, permitiendo que los gases escaparan y destruyeran el cohete.
+
+Pero, ¿por qué los ingenieros no detuvieron el lanzamiento dado el clima frío? Intentaron hacerlo, pero no tenían suficientes datos. No sabían qué sucedería con los anillos de goma en un día donde la temperatura era 15 grados más fría que en cualquier otro lanzamiento anterior. Un análisis rápido de los datos de lanzamientos anteriores permitiría una decisión certera. No obstante, solo consideraron los casos donde hubo signos de problemas con los anillos de goma, lo que limitó los datos a solo siete de los 24 lanzamientos hasta ese momento.
+
+![Lanzamiento del Challenger](https://kenhoma.files.wordpress.com/2016/05/clip_image0028.jpg)
+
+
+En retrospectiva, los ingenieros deberían haber analizado todos los datos sobre el rendimiento de los anillos de goma, no solo los casos con problemas. Cuando se analizan todos los datos, incluidos los vuelos sin incidentes, se puede ver claramente que la temperatura afectó el rendimiento de los anillos de goma. Por encima de los 65 grados, solo 3 de los 20 vuelos tuvieron incidentes, mientras que por debajo de los 65 grados, los 4 vuelos tuvieron incidentes.
+
+Este error de análisis de datos es un ejemplo clásico de cómo la falta de rigor en el tratamiento de la información, incluso con las mejores intenciones, puede contribuir a resultados desastrosos. La lección aprendida aquí es que se deben considerar todos los datos disponibles al responder preguntas específicas, y no solo una selección parcial de los mismos.
+
+En conclusión, el desastre del Challenger nos recuerda la importancia de analizar cuidadosamente los datos y de no tomar decisiones basadas en una muestra parcial de los mismos. Es crucial considerar todos los datos disponibles al responder preguntas específicas para evitar consecuencias catastróficas.
+
+Fuente: [The Challenger disaster: A tragic lesson in data analysis](https://homafiles.info/2016/06/06/the-challenger-disaster-a-tragic-lesson-in-data-analysis/)
+
+Modelo predictivo: [Challenger O-Ring Data – Logistic Regression](https://byuistats.github.io/Statistics-Notebook/Analyses/Logistic%20Regression/Examples/challengerLogisticReg.html)

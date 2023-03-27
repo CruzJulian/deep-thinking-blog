@@ -1,0 +1,34 @@
+---
+title: "¿Cómo personaliza Netflix tu bandeja de entrada usando procesos de datos?"
+description: |
+  Netflix está personalizando la experiencia de sus usuarios, y para ello utiliza imágenes, trailers y sinopsis de títulos que son más relevantes y atractivos para cada usuario. Para crear suites de arte relevantes, atractivas y auténticas, Netflix combina el conocimiento de expertos en estrategia y diseño con herramientas de análisis de datos para identificar las tendencias.
+author:
+  - name: Deep Thinking 
+    url: https://deepthinking.com.co/
+date: 03-29-2023
+base_url: https://blog.deepthinking.com.co/posts/2023-03-29-cmo-personaliza-netflix-tu-bandeja-de-entrada-usando-procesos-de-datos/
+output:
+  distill::distill_article:
+    self_contained: false
+preview: https://miro.medium.com/v2/resize:fit:720/format:webp/1*Y9kntVhxsTY0PoQEcQ4yIQ.png
+
+---
+
+Netflix utiliza un algoritmo de personalización de imágenes para mostrar a sus usuarios las portadas, trailers y sinopsis más relevantes de las películas y series disponibles. En un artículo reciente publicado en su blog, la compañía explica cómo se crean estas imágenes y por qué son importantes para la experiencia del usuario.
+
+La publicidad es fundamental para que los usuarios descubran nuevos títulos en la plataforma, pero no quieren que la publicidad sea engañosa. Por lo tanto, se requiere un enfoque cuidadoso para asegurarse de que las imágenes de promoción sean atractivas y relevantes para el usuario, al mismo tiempo que reflejen auténticamente el contenido del título.
+
+![Distintas portadas para una misma producción.](https://miro.medium.com/v2/resize:fit:720/format:webp/1*Y9kntVhxsTY0PoQEcQ4yIQ.png)
+
+Para desarrollar las mejores imágenes, Netflix trabaja con estrategas y diseñadores creativos que tienen un conocimiento íntimo de los títulos que se promocionan, junto con una serie de herramientas que ayudan a identificar las tendencias en el rendimiento de la publicidad anterior. A través de un enfoque de colaboración entre el equipo de creadores y el equipo de análisis de datos, se puede lograr una combinación de arte y ciencia que permita desarrollar la mejor publicidad.
+
+Para crear las imágenes, Netflix utiliza dos enfoques diferentes: el enfoque de arriba hacia abajo, en el que se identifican de antemano las propiedades de la imagen que se investigarán en función de las creencias iniciales, y el enfoque de abajo hacia arriba, en el que se permite que los datos revelen tendencias importantes de manera natural.
+
+En el enfoque de arriba hacia abajo, Netflix utiliza una descripción detallada de la imagen utilizando atributos y características que se han identificado como importantes en el pasado. Se utilizan técnicas de aprendizaje automático para modelar estas características, que van desde características básicas como el color y la textura hasta características más complejas como la composición y las expresiones faciales. Este enfoque proporciona una comprensión detallada de lo que hace que una imagen sea efectiva y ayuda a los creadores a desarrollar imágenes que sean visualmente atractivas y relevantes para el usuario.
+
+En el enfoque de abajo hacia arriba, Netflix permite que los datos identifiquen tendencias y patrones importantes en el rendimiento de la publicidad anterior. Se agrupan imágenes similares y se analizan en conjunto para identificar patrones importantes. Este enfoque es útil para identificar tendencias que no se habían considerado previamente y para descubrir nuevas formas de crear imágenes que sean atractivas y efectivas.
+
+En general, la creación de imágenes de promoción es un proceso complejo que requiere una combinación de experiencia en el diseño y análisis de datos. Al utilizar enfoques de arriba hacia abajo y de abajo hacia arriba, Netflix puede desarrollar imágenes de alta calidad que sean relevantes y auténticas, al mismo tiempo que se ajustan a las necesidades de los usuarios.
+
+Fuente: [Discovering Creative Insights in Promotional Artwork](https://netflixtechblog.com/discovering-creative-insights-in-promotional-artwork-295e4d788db5)
+
