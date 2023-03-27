@@ -10,7 +10,7 @@ base_url: https://blog.deepthinking.com.co/posts/2023-03-29-cmo-personaliza-netf
 output:
   distill::distill_article:
     self_contained: false
-preview: https://miro.medium.com/v2/resize:fit:720/format:webp/1*Y9kntVhxsTY0PoQEcQ4yIQ.png
+preview: netflix.png
 
 ---
 
