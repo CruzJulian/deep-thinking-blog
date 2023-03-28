@@ -11,6 +11,8 @@ output:
   distill::distill_article:
     self_contained: false
 preview: trend.jpg
+categories:
+  - Inteligencia de negocios
 
 ---
 
@@ -18,7 +20,7 @@ En la actualidad, los avances tecnológicos están revolucionando todas las indu
 
 A continuación, se presentan las cuatro principales tendencias en inteligencia de negocios:
 
-![Foto de Pramod Tiwari, vía [Pexels](https://www.pexels.com)](trend.jpg)
+![Foto de Pramod Tiwari, vía [Pexels](https://www.pexels.com){target="_blank"}](trend.jpg)
 
 
 # Integración de los procesos de datos

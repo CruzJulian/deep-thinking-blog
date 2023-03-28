@@ -11,6 +11,8 @@ output:
   distill::distill_article:
     self_contained: false
 preview: challenger.jpg
+categories:
+  - Cadena de información
 
 ---
 
@@ -27,6 +29,6 @@ Este error de análisis de datos es un ejemplo clásico de cómo la falta de rig
 
 En conclusión, el desastre del Challenger nos recuerda la importancia de analizar cuidadosamente los datos y de no tomar decisiones basadas en una muestra parcial de los mismos. Es crucial considerar todos los datos disponibles al responder preguntas específicas para evitar consecuencias catastróficas.
 
-Fuente: [The Challenger disaster: A tragic lesson in data analysis](https://homafiles.info/2016/06/06/the-challenger-disaster-a-tragic-lesson-in-data-analysis/)
+Fuente: [The Challenger disaster: A tragic lesson in data analysis](https://homafiles.info/2016/06/06/the-challenger-disaster-a-tragic-lesson-in-data-analysis/){target="_blank"}
 
-Modelo predictivo: [Challenger O-Ring Data – Logistic Regression](https://byuistats.github.io/Statistics-Notebook/Analyses/Logistic%20Regression/Examples/challengerLogisticReg.html)
+Modelo predictivo: [Challenger O-Ring Data – Logistic Regression](https://byuistats.github.io/Statistics-Notebook/Analyses/Logistic%20Regression/Examples/challengerLogisticReg.html){target="_blank"}

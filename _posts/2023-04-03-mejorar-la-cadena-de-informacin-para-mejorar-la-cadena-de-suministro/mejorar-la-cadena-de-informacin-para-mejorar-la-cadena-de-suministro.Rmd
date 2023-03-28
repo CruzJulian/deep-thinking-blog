@@ -1,0 +1,53 @@
+---
+title: "Mejorar la cadena de información para mejorar la cadena de suministro"
+description: |
+  Las empresas pueden mejorar la eficiencia, la atención al cliente y reducir costos al mejorar el flujo de información desde el cliente hasta el proveedor mediante el uso de tecnología, colaboración, análisis de datos y capacitación. Las iniciativas clave para lograr el éxito son tres: reemplazar las previsiones de consenso con una visión unificada de la demanda, alejarse de una estrategia de cadena de suministro única para una estrategia segmentada y crear un plan único para equilibrar continuamente la oferta y la demanda e identificar y responder a desviaciones o interrupciones.
+author:
+  - name: Deep Thinking
+    url: https://deepthinking.com.co/
+date: 2023-04-03
+base_url: https://blog.deepthinking.com.co/posts/2023-04-03-mejorar-la-cadena-de-informacin-para-mejorar-la-cadena-de-suministro/
+output:
+  distill::distill_article:
+    self_contained: false
+preview: supply.jpg
+draft: true
+categories:
+  - Cadena de suministro
+  - Inteligencia de negocios
+  - Cadena de información
+
+---
+
+La gestión de la cadena de suministro es clave en la economía global, coordinando y optimizando el flujo de bienes y servicios desde las materias primas hasta el producto final. Uno de los aspectos más importantes de la gestión de la cadena de suministro es la gestión de la información, que incluye los datos de la demanda, inventario, producción y transporte entre los diferentes actores involucrados en la cadena: proveedores, fabricantes, distribuidores, minoristas y clientes.
+
+La mejora de la gestión de la información en la cadena de suministro es esencial para optimizar la gestión de la cadena, y para ello se requiere un enfoque multi-puntual que incluye:
+
+  - Uso de tecnología: la implementación de soluciones de software para la automatización de la recopilación y el análisis de datos, así como de plataformas digitales para compartir información en tiempo real con proveedores y clientes.
+
+  - Colaboración: la colaboración entre los actores de la cadena es esencial para establecer formatos de datos comunes, métricas y estándares de informes.
+
+  - Análisis de datos: la aplicación de análisis de datos puede ayudar a identificar patrones y tendencias, permitiendo a las empresas tomar decisiones informadas, por ejemplo, ajustando la producción y los niveles de inventario en función de las tendencias de la demanda.
+
+  - Capacitación: se deben proporcionar programas de capacitación para que los empleados adquieran las habilidades necesarias para recopilar, analizar y compartir información de manera efectiva.
+
+![Foto de Tom Fisk, vía [Pexels](https://www.pexels.com){target="_blank"}](supply.jpg)
+
+
+La mejora de la gestión de la información en la cadena de suministro tiene varios beneficios, como una mayor eficiencia, una mejor atención al cliente y una reducción de costos.
+
+Además, se ha demostrado que las empresas pueden lograr beneficios sustanciales mediante la digitalización de su cadena de suministro, incluso con un enfoque más moderado y menos costoso que la transformación masiva de la cadena de suministro, que requiere grandes inversiones en tecnología en la nube, la instalación de etiquetas RFID y lectores en cada contenedor y en cada instalación, la implementación de tecnologías de impresión en 3D y robótica, y la incorporación de nuevos instrumentos en las máquinas en el piso de producción para monitorear su rendimiento y condición.
+
+La clave del éxito de este enfoque radica en tres iniciativas:
+
+  - Reemplazo de las previsiones de consenso con una visión unificada de la demanda.
+
+  - Alejamiento de una estrategia de cadena de suministro única para una estrategia segmentada.
+
+  - Creación de un plan único para equilibrar continuamente la oferta y la demanda e identificar y responder a desviaciones o interrupciones.
+
+La implementación de estas iniciativas puede permitir a las empresas reducir costos, mejorar la capacidad de respuesta, aumentar la eficiencia y la satisfacción del cliente.
+
+En conclusión, mejorar la gestión de la cadena de suministro mediante la mejora de la cadena de información puede llevar a una mayor eficiencia, mejor servicio al cliente y reducción de costos. Se sugiere que las empresas deben enfocarse en mejorar el flujo de información desde el cliente hasta el proveedor mediante el uso de tecnología, colaboración, análisis de datos y capacitación. Además, se sugiere que la modernización de la cadena de suministro no siempre requiere una gran inversión y puede lograrse a través de iniciativas más moderadas que incluyan la mejora de la planificación de la demanda, la segmentación de la estrategia de la cadena de suministro y la creación de un plan para equilibrar continuamente la oferta y la demanda.
+
+Este artículo se basa en este otro: [A Simpler Way to Modernize Your Supply Chain](https://hbr.org/2021/09/a-simpler-way-to-modernize-your-supply-chain){target="_blank"}

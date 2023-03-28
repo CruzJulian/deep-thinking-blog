@@ -11,6 +11,8 @@ output:
   distill::distill_article:
     self_contained: false
 preview: gpt.jpg
+categories:
+  - Inteligencia artificial
 
 ---
 
@@ -18,7 +20,7 @@ OpenAI ha anunciado nuevos plugins que permiten a su modelo de lenguaje GPT adqu
 
 OpenAI destaca que los plugins permiten que GPT supere las limitaciones que tenía antes, ya que estaba limitado por los datos de entrenamiento que se utilizaron para su desarrollo. Ahora, gracias a los plugins, el modelo de lenguaje puede acceder a una gran cantidad de información actualizada y servicios externos en tiempo real.
 
-![Foto de Pavel Danilyuk, vía [Pexels](https://www.pexels.com)](gpt.jpg)
+![Foto de Pavel Danilyuk, vía [Pexels](https://www.pexels.com){target="_blank"}](gpt.jpg)
 
 
 Entre las nuevas habilidades, se encuentran la capacidad de explorar la web para buscar información actualizada, procesar imágenes y videos, realizar análisis de datos y ejecutar código. También se mencionan algunos plugins disponibles actualmente, como Kayak para reservar vuelos, Instacart para hacer compras y Sapir para automatizar procesos.
@@ -27,5 +29,5 @@ Adicionalmente, se tienen actualización con respecto a la seguridad de los plug
 
 En resumen, el modelo GPT, en su próxima entrega, tendrá superpoderes, a través de plugins que le permiten realizar una amplia gama de tareas, abriendo nuevas posibilidades para el modelo de lenguaje y superando las limitaciones que tenía anteriormente. También se aborda la seguridad de los plugins y se proporciona información para los desarrolladores interesados en crear sus propios plugins.
 
-Fuente: [ChatGPT ahora tiene superpoderes](https://youtu.be/OC888STwrlU)
+Fuente: [ChatGPT ahora tiene superpoderes](https://youtu.be/OC888STwrlU){target="_blank"}
 

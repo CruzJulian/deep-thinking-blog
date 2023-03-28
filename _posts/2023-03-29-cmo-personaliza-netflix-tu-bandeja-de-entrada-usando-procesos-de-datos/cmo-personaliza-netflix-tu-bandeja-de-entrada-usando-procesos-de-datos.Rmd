@@ -11,6 +11,9 @@ output:
   distill::distill_article:
     self_contained: false
 preview: netflix.png
+categories:
+  - Inteligencia artificial
+  - Inteligencia de negocios
 
 ---
 
@@ -30,5 +33,5 @@ En el enfoque de abajo hacia arriba, Netflix permite que los datos identifiquen 
 
 En general, la creación de imágenes de promoción es un proceso complejo que requiere una combinación de experiencia en el diseño y análisis de datos. Al utilizar enfoques de arriba hacia abajo y de abajo hacia arriba, Netflix puede desarrollar imágenes de alta calidad que sean relevantes y auténticas, al mismo tiempo que se ajustan a las necesidades de los usuarios.
 
-Fuente: [Discovering Creative Insights in Promotional Artwork](https://netflixtechblog.com/discovering-creative-insights-in-promotional-artwork-295e4d788db5)
+Fuente: [Discovering Creative Insights in Promotional Artwork](https://netflixtechblog.com/discovering-creative-insights-in-promotional-artwork-295e4d788db5){target="_blank"}
 
