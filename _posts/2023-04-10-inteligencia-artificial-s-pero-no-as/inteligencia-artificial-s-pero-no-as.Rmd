@@ -6,7 +6,7 @@ author:
   - name: Deep Thinking
     url: https://deepthinking.com.co/
 date: 2023-04-10
-base_url: https://blog.deepthinking.com.co/posts/2023-04-04-es-gpt-una-versin-temprana-de-un-sistema-de-inteligencia-artificial-general/
+base_url: https://blog.deepthinking.com.co/posts/2023-04-10-inteligencia-artificial-s-pero-no-as/
 output:
   distill::distill_article:
     self_contained: false

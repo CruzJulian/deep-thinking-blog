@@ -24,6 +24,31 @@
       <media:content url="https://blog.deepthinking.com.co/posts/2023-04-10-inteligencia-artificial-s-pero-no-as/img_ai.jpg" medium="image" type="image/jpeg"/>
     </item>
     <item>
+      <title>Rompiendo barreras con la tecnología: Cómo ayudamos al equipo de Diseño Público a hacer un diagnóstico de la ciudad de Barranquilla</title>
+      <dc:creator>Deep Thinking</dc:creator>
+      <link>https://blog.deepthinking.com.co/posts/2023-04-10-rompiendo-barreras-con-la-tecnologa-cmo-ayudamos-al-equipo-de-diseo-pblico-a-hacer-un-diagnstico-de-la-ciudad-de-barranquilla</link>
+      <description>Desarrollamos una solución interactiva de visualización de datos para el proyecto Nuestra Barranquilla, de la iniciativa OurCity de la Fondation Botnar y la Fundación Corona. El aplicativo permite obtener estadísticas descriptivas de todas las variables de la encuesta, seleccionar el tipo de gráfico y las variables a cruzar, además de realizar filtros y desagregaciones. Si necesitas una solución similar para tu empresa, ¡contáctanos!</description>
+      <category>Iniciativas de desarrollo</category>
+      <category>Casos de éxito</category>
+      <category>Visualización de datos</category>
+      <guid>https://blog.deepthinking.com.co/posts/2023-04-10-rompiendo-barreras-con-la-tecnologa-cmo-ayudamos-al-equipo-de-diseo-pblico-a-hacer-un-diagnstico-de-la-ciudad-de-barranquilla</guid>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
+      <media:content url="https://blog.deepthinking.com.co/posts/2023-04-10-rompiendo-barreras-con-la-tecnologa-cmo-ayudamos-al-equipo-de-diseo-pblico-a-hacer-un-diagnstico-de-la-ciudad-de-barranquilla/logo.png" medium="image" type="image/png" width="2234" height="1266"/>
+    </item>
+    <item>
+      <title>Transformando la Responsabilidad Social Empresarial por medio de ciencia de datos</title>
+      <dc:creator>Deep Thinking</dc:creator>
+      <link>https://blog.deepthinking.com.co/posts/2023-04-10-transformando-la-responsabilidad-social-empresarial-por-medio-de-ciencia-de-datos</link>
+      <description>Descubre cómo nuestro equipo de desarrollo creó el aplicativo 3sc4l4 para el Programa Primeros Pasos en RSE de la Facultad de Administración de Empresas de la Universidad Externado de Colombia, proporcionando una solución que permite la captura de información de las empresas y sus stakeholders, y su análisis a través de un conjunto de analíticas que permiten identificar oportunidades y generar planes de acción. ¿Estás interesado en una solución de datos personalizada? ¡Contáctanos!</description>
+      <category>Responsabilidad Social Empresarial</category>
+      <category>Desarrollo</category>
+      <category>Inteligencia de negocios</category>
+      <category>Casos de éxito</category>
+      <guid>https://blog.deepthinking.com.co/posts/2023-04-10-transformando-la-responsabilidad-social-empresarial-por-medio-de-ciencia-de-datos</guid>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
+      <media:content url="https://blog.deepthinking.com.co/posts/2023-04-10-transformando-la-responsabilidad-social-empresarial-por-medio-de-ciencia-de-datos/3sc4l4-logo.png" medium="image" type="image/png" width="1095" height="981"/>
+    </item>
+    <item>
       <title>Mejorar la cadena de información para mejorar la cadena de suministro</title>
       <dc:creator>Deep Thinking</dc:creator>
       <link>https://blog.deepthinking.com.co/posts/2023-04-03-mejorar-la-cadena-de-informacin-para-mejorar-la-cadena-de-suministro</link>
@@ -50,6 +75,8 @@
       <dc:creator>Deep Thinking</dc:creator>
       <link>https://blog.deepthinking.com.co/posts/2023-03-30-el-desastre-del-challenger-cuando-las-fallas-de-informacin-cuestan-vidas-humanas</link>
       <description>El desastre del Challenger, ocurrido el 28 de enero de 1986, fue una lección trágica sobre la importancia del análisis de datos en la toma de decisiones críticas. El incidente fue causado por la destrucción de los sellos que se utilizan para evitar fugas de gases calientes en la sección del motor sólido del transbordador espacial. Los investigadores descubrieron que el problema fue causado por una predicción inadecuada del comportamiento de los sellos a temperaturas más frías durante la misión 51-L del Challenger.</description>
+      <category>Cadena de información</category>
+      <category>Historia</category>
       <guid>https://blog.deepthinking.com.co/posts/2023-03-30-el-desastre-del-challenger-cuando-las-fallas-de-informacin-cuestan-vidas-humanas</guid>
       <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
       <media:content url="https://blog.deepthinking.com.co/posts/2023-03-30-el-desastre-del-challenger-cuando-las-fallas-de-informacin-cuestan-vidas-humanas/challenger.jpg" medium="image" type="image/jpeg"/>
@@ -70,6 +97,7 @@
       <dc:creator>Deep Thinking</dc:creator>
       <link>https://blog.deepthinking.com.co/posts/2023-03-28-chat-gpt-ahora-con-superpoderes</link>
       <description>Se ha anunciado la incorporación de plugins a GPT, lo que le permite tener acceso a una gran variedad de servicios externos. Esto permite que los modelos de lenguaje, como GPT, superen las limitaciones de los datos de entrenamiento utilizados. Ahora, GPT tendrá acceso a servicios fiscales, reservas de vuelos, creación de automatizaciones y mucho más.</description>
+      <category>Inteligencia artificial</category>
       <guid>https://blog.deepthinking.com.co/posts/2023-03-28-chat-gpt-ahora-con-superpoderes</guid>
       <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
       <media:content url="https://blog.deepthinking.com.co/posts/2023-03-28-chat-gpt-ahora-con-superpoderes/gpt.jpg" medium="image" type="image/jpeg"/>

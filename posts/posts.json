@@ -19,6 +19,53 @@
     "input_file": {}
   },
   {
+    "path": "posts/2023-04-10-rompiendo-barreras-con-la-tecnologa-cmo-ayudamos-al-equipo-de-diseo-pblico-a-hacer-un-diagnstico-de-la-ciudad-de-barranquilla/",
+    "title": "Rompiendo barreras con la tecnología: Cómo ayudamos al equipo de Diseño Público a hacer un diagnóstico de la ciudad de Barranquilla",
+    "description": "Desarrollamos una solución interactiva de visualización de datos para el proyecto Nuestra Barranquilla, de la iniciativa OurCity de la Fondation Botnar y la Fundación Corona. El aplicativo permite obtener estadísticas descriptivas de todas las variables de la encuesta, seleccionar el tipo de gráfico y las variables a cruzar, además de realizar filtros y desagregaciones. Si necesitas una solución similar para tu empresa, ¡contáctanos!",
+    "author": [
+      {
+        "name": "Deep Thinking",
+        "url": "https://deepthinking.com.co/"
+      }
+    ],
+    "date": "2023-04-10",
+    "categories": [
+      "Iniciativas de desarrollo",
+      "Casos de éxito",
+      "Visualización de datos"
+    ],
+    "contents": "\nEn esta ocasión, queremos compartir la historia de nuestro último proyecto, donde desarrollamos un software a la medida para una iniciativa internacional que buscaba mejorar la calidad de vida de los jóvenes urbanos en todo el mundo.\nNuestra BarranquillaNuestro cliente fue el equipo de Diseño Público, quien trabajó en colaboración con la Fundación Botnar y la Fundación Corona para llevar a cabo un proyecto llamado Nuestra Barranquilla. Este proyecto se enmarca dentro de la iniciativa OurCity, una iniciativa global que busca crear ciudades más inclusivas y habitables para los jóvenes mediante la utilización de la tecnología, los datos y la colaboración entre sectores.\nEl equipo de Diseño Público se propuso hacer un diagnóstico de la ciudad de Barranquilla y para ello, realizaron una recolección de datos muy completa de diferentes factores socioeconómicos de los jóvenes de la ciudad por medio de distintos canales. Para poder compartir los datos de manera eficaz y sencilla, el equipo de Diseño Público necesitaba una solución interactiva de visualización de datos. Esta herramienta era la clave para hacer que los hallazgos de su investigación fueran accesibles y comprensibles para una audiencia amplia y diversa.\nDiseño PúblicoFue en este punto que nuestro equipo de desarrollo intervino. Trabajando en estrecha colaboración con el equipo de Diseño Público, creamos un tablero interactivo de inspección de datos que permite a los usuarios obtener estadísticas descriptivas de todas las variables de la encuesta. Los usuarios pueden seleccionar el tipo de gráfico y las variables a cruzar, realizar filtros y desagregaciones, y explorar la información de la encuesta en profundidad. Este aplicativo fue programado en R-Shiny, lo que permitió una disminución significativa en los costos tanto de desarrollo como de despliegue y mantenimiento. Todo esto con el objetivo de presentar los datos de manera clara y concisa.\nVisualizaciónGracias a nuestro aplicativo, el equipo de Diseño Público pudo compartir los hallazgos de manera efectiva y logró hacer un diagnóstico preciso de la ciudad de Barranquilla. El aplicativo es muy completo y se encuentra desplegado en la página del proyecto. El equipo de Diseño Público manifestó su satisfacción respecto a nuestro producto y reiteró su afinidad para futuros desarrollos.\nSi necesitas una solución efectiva para la visualización de datos, nuestro equipo puede ayudarte. Hemos demostrado nuestra capacidad de colaborar estrechamente con los clientes, comprender sus requerimientos y ofrecer soluciones innovadoras y efectivas que satisfacen todas las necesidades. Contáctanos hoy mismo para obtener más información sobre cómo podemos ayudarte a presentar tus datos de manera efectiva y así llegar a una audiencia amplia y diversa.\n\n\n\n",
+    "preview": "posts/2023-04-10-rompiendo-barreras-con-la-tecnologa-cmo-ayudamos-al-equipo-de-diseo-pblico-a-hacer-un-diagnstico-de-la-ciudad-de-barranquilla/logo.png",
+    "last_modified": "2023-04-10T17:58:27-05:00",
+    "input_file": {},
+    "preview_width": 2234,
+    "preview_height": 1266
+  },
+  {
+    "path": "posts/2023-04-10-transformando-la-responsabilidad-social-empresarial-por-medio-de-ciencia-de-datos/",
+    "title": "Transformando la Responsabilidad Social Empresarial por medio de ciencia de datos",
+    "description": "Descubre cómo nuestro equipo de desarrollo creó el aplicativo 3sc4l4 para el Programa Primeros Pasos en RSE de la Facultad de Administración de Empresas de la Universidad Externado de Colombia, proporcionando una solución que permite la captura de información de las empresas y sus stakeholders, y su análisis a través de un conjunto de analíticas que permiten identificar oportunidades y generar planes de acción. ¿Estás interesado en una solución de datos personalizada? ¡Contáctanos!",
+    "author": [
+      {
+        "name": "Deep Thinking",
+        "url": "https://deepthinking.com.co/"
+      }
+    ],
+    "date": "2023-04-10",
+    "categories": [
+      "Responsabilidad Social Empresarial",
+      "Desarrollo",
+      "Inteligencia de negocios",
+      "Casos de éxito"
+    ],
+    "contents": "\nEn el contexto académico, el Programa Primeros Pasos en RSE promueve la responsabilidad social en la acción gerencial y empresarial. En este programa, estudiantes, profesores y empresarios interactúan para realizar una intervención y acompañamiento en la propia empresa, comprometiéndose con la implementación de criterios de gestión en el corto plazo.\nSe trata de un ejercicio de acercamiento Universidad-Empresa registrado por la Facultad de Administración de Empresas de la Universidad Externado de Colombia. En este programa, los estudiantes actúan como consultores junior realizando una intervención y acompañamiento al empresario al interior de su propia organización. Los profesores, por su parte, cumplen el rol de consultores senior apoyando en el proceso a los estudiantes y asesorando a los empresarios según su especialidad. Los empresarios actúan como agentes de cambio en la empresa comprometiéndose con la implementación de criterios de gestión en el corto plazo apoyándose en sus respectivos asesores (estudiantes y profesores).\n3sc4l4A pesar del avance teórico y robusto del programa, no contaban con herramientas de recolección, almacenamiento, análisis y presentación de la información que permitieran optimizar los procesos. Estaban trabajando con una plantilla de MS Excel que, aunque tenía fórmulas, su mantenimiento suponía un enorme esfuerzo.\nDespués de una toma de requerimientos y un análisis inicial, diseñamos y desarrollamos la solución que nuestros clientes necesitaban. Usando metodologías ágiles, creamos 3sc4l4, un aplicativo que permite la administración de usuarios y la captura de información de las empresas y sus stakeholders por parte de estudiantes.\n3sc4l4Pero 3sc4l4 no solo captura la información, sino que también la analiza. Luego de una recolección de datos preliminar, genera un primer conjunto de analíticas que permiten identificar las oportunidades de mejora de la empresa. Con estas oportunidades identificadas, los estudiantes pueden generar planes de acción con indicadores claros de tiempos, esfuerzo y resultado necesarios para cada uno. Todo este análisis se condensa en un informe final que es presentado a los directivos de las organizaciones participantes.\n¡Si tienes una empresa y quieres iniciar en la responsabilidad social empresarial, inscríbete en el programa Primeros Pasos de la Facultad de Administración de Empresas de la Universidad Externado de Colombia! Y si tienes un problema de datos, ¡contacta a nuestro equipo para crear una solución a la medida que se ajuste a tus expectativas! Juntos podemos transformar tus procesos y mejorar la toma de decisiones. ¡Te esperamos!\n\n\n\n",
+    "preview": "posts/2023-04-10-transformando-la-responsabilidad-social-empresarial-por-medio-de-ciencia-de-datos/3sc4l4-logo.png",
+    "last_modified": "2023-04-10T16:56:37-05:00",
+    "input_file": {},
+    "preview_width": 1095,
+    "preview_height": 981
+  },
+  {
     "path": "posts/2023-04-03-mejorar-la-cadena-de-informacin-para-mejorar-la-cadena-de-suministro/",
     "title": "Mejorar la cadena de información para mejorar la cadena de suministro",
     "description": "Las empresas pueden mejorar la eficiencia, la atención al cliente y reducir costos al mejorar el flujo de información desde el cliente hasta el proveedor mediante el uso de tecnología, colaboración, análisis de datos y capacitación. Las iniciativas clave para lograr el éxito son tres: reemplazar las previsiones de consenso con una visión unificada de la demanda, alejarse de una estrategia de cadena de suministro única para una estrategia segmentada y crear un plan único para equilibrar continuamente la oferta y la demanda e identificar y responder a desviaciones o interrupciones.",
@@ -69,10 +116,13 @@
       }
     ],
     "date": "2023-03-30",
-    "categories": [],
+    "categories": [
+      "Cadena de información",
+      "Historia"
+    ],
     "contents": "\nEl desastre del Challenger, ocurrido el 28 de enero de 1986, fue causado por la destrucción de los sellos que impiden que los gases calientes escapen de los cohetes. La atención se centró rápidamente en los anillos de goma que se utilizan para sellar la unión entre dos secciones del motor del cohete: el “tang” y el “clevis”. Los anillos de goma deben ser lo suficientemente flexibles para comprimirse y expandirse en milisegundos, y su resiliencia está directamente relacionada con la temperatura. Los investigadores descubrieron que un anillo de goma comprimido es cinco veces más sensible a 75 grados Fahrenheit que a 30 grados Fahrenheit. Sin embargo, la temperatura en el momento del lanzamiento del Challenger era de solo 36 grados Fahrenheit, lo que probablemente impidió que los anillos de goma se comprimieran y expandieran adecuadamente, permitiendo que los gases escaparan y destruyeran el cohete.\nPero, ¿por qué los ingenieros no detuvieron el lanzamiento dado el clima frío? Intentaron hacerlo, pero no tenían suficientes datos. No sabían qué sucedería con los anillos de goma en un día donde la temperatura era 15 grados más fría que en cualquier otro lanzamiento anterior. Un análisis rápido de los datos de lanzamientos anteriores permitiría una decisión certera. No obstante, solo consideraron los casos donde hubo signos de problemas con los anillos de goma, lo que limitó los datos a solo siete de los 24 lanzamientos hasta ese momento.\nLanzamiento del ChallengerEn retrospectiva, los ingenieros deberían haber analizado todos los datos sobre el rendimiento de los anillos de goma, no solo los casos con problemas. Cuando se analizan todos los datos, incluidos los vuelos sin incidentes, se puede ver claramente que la temperatura afectó el rendimiento de los anillos de goma. Por encima de los 65 grados, solo 3 de los 20 vuelos tuvieron incidentes, mientras que por debajo de los 65 grados, los 4 vuelos tuvieron incidentes.\nEste error de análisis de datos es un ejemplo clásico de cómo la falta de rigor en el tratamiento de la información, incluso con las mejores intenciones, puede contribuir a resultados desastrosos. La lección aprendida aquí es que se deben considerar todos los datos disponibles al responder preguntas específicas, y no solo una selección parcial de los mismos.\nEn conclusión, el desastre del Challenger nos recuerda la importancia de analizar cuidadosamente los datos y de no tomar decisiones basadas en una muestra parcial de los mismos. Es crucial considerar todos los datos disponibles al responder preguntas específicas para evitar consecuencias catastróficas.\nFuente: The Challenger disaster: A tragic lesson in data analysis\nModelo predictivo: Challenger O-Ring Data – Logistic Regression\n\n\n\n",
     "preview": "posts/2023-03-30-el-desastre-del-challenger-cuando-las-fallas-de-informacin-cuestan-vidas-humanas/challenger.jpg",
-    "last_modified": "2023-03-27T16:15:37-05:00",
+    "last_modified": "2023-04-10T16:58:53-05:00",
     "input_file": {}
   },
   {
@@ -108,10 +158,12 @@
       }
     ],
     "date": "2023-03-28",
-    "categories": [],
+    "categories": [
+      "Inteligencia artificial"
+    ],
     "contents": "\nOpenAI ha anunciado nuevos plugins que permiten a su modelo de lenguaje GPT adquirir una serie de superpoderes, lo que le permite hacer tareas que antes no podía hacer, como reservar vuelos, comprar productos, editar imágenes y videos, explorar internet, programar y ejecutar código, entre otros. Estos plugins están diseñados para conectarse a diferentes servicios externos y proporcionar a GPT acceso a una cantidad infinita de datos en tiempo real. Además, los desarrolladores pueden crear sus propios plugins para agregar nuevas habilidades al modelo de lenguaje.\nOpenAI destaca que los plugins permiten que GPT supere las limitaciones que tenía antes, ya que estaba limitado por los datos de entrenamiento que se utilizaron para su desarrollo. Ahora, gracias a los plugins, el modelo de lenguaje puede acceder a una gran cantidad de información actualizada y servicios externos en tiempo real.\nFoto de Pavel Danilyuk, vía PexelsEntre las nuevas habilidades, se encuentran la capacidad de explorar la web para buscar información actualizada, procesar imágenes y videos, realizar análisis de datos y ejecutar código. También se mencionan algunos plugins disponibles actualmente, como Kayak para reservar vuelos, Instacart para hacer compras y Sapir para automatizar procesos.\nAdicionalmente, se tienen actualización con respecto a la seguridad de los plugins y cómo se están abordando las preocupaciones sobre la posibilidad de un mal uso de esta tecnología. Además, se señala que en un futuro próximo, los desarrolladores pueden crear sus propios plugins y se proporciona información sobre cómo hacerlo.\nEn resumen, el modelo GPT, en su próxima entrega, tendrá superpoderes, a través de plugins que le permiten realizar una amplia gama de tareas, abriendo nuevas posibilidades para el modelo de lenguaje y superando las limitaciones que tenía anteriormente. También se aborda la seguridad de los plugins y se proporciona información para los desarrolladores interesados en crear sus propios plugins.\nFuente: ChatGPT ahora tiene superpoderes\n\n\n\n",
     "preview": "posts/2023-03-28-chat-gpt-ahora-con-superpoderes/gpt.jpg",
-    "last_modified": "2023-03-27T16:08:43-05:00",
+    "last_modified": "2023-04-10T15:48:42-05:00",
     "input_file": {}
   },
   {

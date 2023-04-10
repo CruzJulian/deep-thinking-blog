@@ -13,6 +13,7 @@ output:
 preview: challenger.jpg
 categories:
   - Cadena de información
+  - Historia
 
 ---
 
