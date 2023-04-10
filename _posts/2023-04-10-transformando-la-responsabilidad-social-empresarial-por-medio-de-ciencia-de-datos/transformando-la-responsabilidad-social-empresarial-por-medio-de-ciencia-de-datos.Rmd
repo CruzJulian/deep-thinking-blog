@@ -30,7 +30,7 @@ A pesar del avance teórico y robusto del programa, no contaban con herramientas
 
 Después de una toma de requerimientos y un análisis inicial, diseñamos y desarrollamos la solución que nuestros clientes necesitaban. Usando metodologías ágiles, creamos 3sc4l4, un aplicativo que permite la administración de usuarios y la captura de información de las empresas y sus stakeholders por parte de estudiantes.
 
-![3sc4l4](pantallazo.png)
+![Al interior del aplicativo](pantallazo.png)
 
 
 Pero [3sc4l4](https://www.3sc4l4.co/){target="_blank"} no solo captura la información, sino que también la analiza. Luego de una recolección de datos preliminar, genera un primer conjunto de analíticas que permiten identificar las oportunidades de mejora de la empresa. Con estas oportunidades identificadas, los estudiantes pueden generar planes de acción con indicadores claros de tiempos, esfuerzo y resultado necesarios para cada uno. Todo este análisis se condensa en un informe final que es presentado a los directivos de las organizaciones participantes.

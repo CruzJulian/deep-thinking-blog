@@ -26,12 +26,12 @@ Nuestro cliente fue el equipo de Diseño Público, quien trabajó en colaboraci�
 
 El equipo de Diseño Público se propuso hacer un diagnóstico de la ciudad de Barranquilla y para ello, realizaron una recolección de datos muy completa de diferentes factores socioeconómicos de los jóvenes de la ciudad por medio de distintos canales. Para poder compartir los datos de manera eficaz y sencilla, el equipo de Diseño Público necesitaba una solución interactiva de visualización de datos. Esta herramienta era la clave para hacer que los hallazgos de su investigación fueran accesibles y comprensibles para una audiencia amplia y diversa.
 
-![Diseño Público](page.png)
+![El diagnóstico realizado por Diseño Público](page.png)
 
 
 Fue en este punto que nuestro equipo de desarrollo intervino. Trabajando en estrecha colaboración con el equipo de Diseño Público, creamos un tablero interactivo de inspección de datos que permite a los usuarios obtener estadísticas descriptivas de todas las variables de la encuesta. Los usuarios pueden seleccionar el tipo de gráfico y las variables a cruzar, realizar filtros y desagregaciones, y explorar la información de la encuesta en profundidad. Este aplicativo fue programado en R-Shiny, lo que permitió una disminución significativa en los costos tanto de desarrollo como de despliegue y mantenimiento. Todo esto con el objetivo de presentar los datos de manera clara y concisa.
 
-![Visualización](dash.png)
+![Nuestra visualización de sus datos](dash.png)
 
 Gracias a nuestro aplicativo, el equipo de Diseño Público pudo compartir los hallazgos de manera efectiva y logró hacer un diagnóstico preciso de la ciudad de Barranquilla. El aplicativo es muy completo y se encuentra desplegado en la página del proyecto. El equipo de Diseño Público manifestó su satisfacción respecto a nuestro producto y reiteró su afinidad para futuros desarrollos.
 
