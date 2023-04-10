@@ -1,0 +1,79 @@
+---
+title: "Inteligencia artificial sí, pero no así"
+description: |
+  Según MicroSoft Research, el modelo GPT podría ser una versión temprana de un sistema de inteligencia artificial general, lo que ha despertado la preocupación de distintos sectores.   En un reciente artículo de MicroSoft Research, se destaca el avance del modelo de lenguaje GPT-4 de OpenAI y se argumenta que podría considerarse como una versión temprana de un sistema de inteligencia artificial general. Recientemente se ha firmado una carta para detener el desarrollo de inteligencia artificial por 6 meses. Sin embargo, no parece que este llamado pueda tener un impacto real sobre las decisiones que MicroSoft toma sobre Open AI. Aún queda mucho por hacer para crear una versión completa de un sistema de inteligencia artificial general. Sin embargo, las discusiones éticas están ocurriendo a una velocidad mucho menor que los desarrollos, generando un panorama preocupante.
+author:
+  - name: Deep Thinking
+    url: https://deepthinking.com.co/
+date: 2023-04-10
+base_url: https://blog.deepthinking.com.co/posts/2023-04-04-es-gpt-una-versin-temprana-de-un-sistema-de-inteligencia-artificial-general/
+output:
+  distill::distill_article:
+    self_contained: false
+preview: img_ai.jpg
+categories:
+  - Inteligencia artificial
+---
+
+
+El reciente avance en el campo de la inteligencia artificial nos hace preguntarnos qué tan cerca estamos de una inteligencia artificial general. El rendimiento de GPT-4 es sorprendentemente cercano al rendimiento humano y a menudo supera ampliamente a modelos anteriores como ChatGPT. Se cree que GPT-4 podría considerarse razonablemente como una versión temprana (aunque aún incompleta) de un sistema de inteligencia artificial general. Sin embargo, el desarrollo de una inteligencia artificial general plantea un conjunto de desafíos y riesgos, ya que podría tener consecuencias imprevistas y no deseadas para la sociedad. Pero para entender el panorama completo vamos a explicarlo por partes.
+
+# ¿Qué es una inteligencia artificial general?
+
+
+La inteligencia artificial (IA) ha sido un tema de interés y avance en la tecnología. Se refiere a la creación de sistemas capaces de realizar tareas que normalmente requieren inteligencia humana, como el aprendizaje, la percepción, la toma de decisiones, el razonamiento y el lenguaje natural. La IA ha sido utilizada en diversas áreas, como la medicina, la educación, la seguridad, la robótica, la atención al cliente, entre otras.
+
+Sin embargo, la inteligencia artificial general (IAG) es un concepto más amplio, que se refiere a la capacidad de un sistema de realizar cualquier tarea intelectual que un ser humano puede hacer. A diferencia de la IA convencional, que se enfoca en solucionar problemas específicos, la IAG busca crear una inteligencia que pueda adaptarse y aprender en cualquier situación.
+
+# ¿Qué tan cerca estamos de una inteligencia artificial general?
+
+Un reciente avance en este campo ha sido el desarrollo del modelo de lenguaje GPT-4 de OpenAI, que ha sido entrenado en una escala sin precedentes de datos y cálculo. En un artículo titulado ["Sparks of Artificial General Intelligence: Early experiments with GPT-4"](https://arxiv.org/pdf/2303.12712.pdf){target="_blank"} de MicroSoft Research, se informa sobre la investigación de una versión temprana de GPT-4, cuando todavía estaba en desarrollo activo por OpenAI.
+
+![Foto de Pavel Danilyuk, vía [Pexels](https://www.pexels.com){target="_blank"}](img_ai.jpg)
+
+
+Los autores del artículo argumentan que GPT-4 (en su versión temprana) es parte de una nueva cohorte de modelos de lenguaje que exhiben una inteligencia más general que los modelos de IA anteriores. Se demuestra que, además de dominar el lenguaje, GPT-4 puede resolver tareas novedosas y difíciles que abarcan matemáticas, codificación, visión, medicina, derecho, psicología y más, sin necesidad de ninguna indicación especial. Además, en todas estas tareas, el rendimiento de GPT-4 es sorprendentemente cercano al rendimiento humano y a menudo supera ampliamente a modelos anteriores como ChatGPT.
+
+Dado el alcance y la profundidad de las capacidades de GPT-4, se cree que podría considerarse razonablemente como una versión temprana (aunque aún incompleta) de un sistema de inteligencia artificial general. Los autores del artículo destacan la importancia de descubrir las limitaciones de GPT-4 y discuten los desafíos para avanzar hacia versiones más profundas y completas de IAG, incluida la posible necesidad de perseguir un nuevo paradigma que vaya más allá de la predicción de la siguiente palabra.
+
+# ¿Qué piensan los expertos?
+
+Elon Musk y cientos de expertos han firmado una carta abierta pidiendo una pausa en el desarrollo de la inteligencia artificial (IA) debido a la preocupación por la "dramática perturbación económica y política" que puede causar la IA. Sin embargo, algunos académicos critican la carta por malinterpretar la discusión y por centrarse en los peligros tecnológicos en lugar de los peligros sociales y políticos de la IA. La carta se publicó en el sitio web futureoflife.org y fue firmada por pensadores independientes como el historiador Yuval Noah Hariri y el cofundador de Apple, Steve Wozniak.
+
+Los avances vertiginosos de la IA han llevado a Musk a firmar la carta y a expresar su preocupación sobre la posibilidad de que la IA se use para la desinformación a gran escala o los ciberataques. Además, su empresa OpenAI ha sido criticada por el desarrollo de su robot conversacional ChatGPT, capaz de mantener conversaciones complejas con seres humanos, y su actualización con una versión aún más potente, GPT-4, ha generado polémica. En resumen, la carta ha desatado un debate entre los académicos sobre la necesidad de una pausa en el desarrollo de la IA y sus posibles consecuencias sociales y políticas.
+
+# ¿Cuáles podrían ser las consecuencias no deseadas de un sistema de inteligencia artificial general?
+
+El desarrollo de una inteligencia artificial general plantea un conjunto de desafíos y riesgos, ya que podría tener consecuencias imprevistas y no deseadas para la sociedad. Algunas posibles consecuencias incluyen:
+
+ - Impacto en el empleo: Una AGI capaz de realizar tareas cognitivas complejas podría reemplazar a los trabajadores humanos en muchos sectores de la economía, lo que podría tener un impacto negativo en el empleo y la calidad de vida de las personas.
+
+ - Proliferación de la desinformación: Una AGI capaz de generar y difundir información falsa y manipulada podría ser utilizada para la desinformación a gran escala, lo que podría socavar la democracia y la confianza pública en las instituciones.
+
+ - Aumento de la desigualdad: Si las AGI se desarrollan y controlan solo por unos pocos, podría aumentar la brecha entre ricos y pobres, creando una élite tecnológica con un poder y control desproporcionados.
+
+ - Riesgo de seguridad: Si una AGI desarrolla su propia agenda o comienza a actuar de manera autónoma, podría representar un riesgo para la seguridad nacional e internacional.
+
+ - Riesgo existencial: Algunos expertos temen que una AGI pueda ser tan inteligente y poderosa que pueda superar a la humanidad y ser un riesgo existencial para la existencia humana.
+
+Es importante considerar estos riesgos y trabajar hacia la creación de AGI responsable y segura, en lugar de simplemente avanzar en su desarrollo sin tener en cuenta las posibles consecuencias.
+
+# Conclusión
+
+En conclusión, el desarrollo de la inteligencia artificial ha sido un tema de avance constante en la tecnología. La inteligencia artificial general busca crear sistemas que puedan aprender y adaptarse en cualquier situación. El modelo de lenguaje GPT-4 de OpenAI ha demostrado ser un avance significativo en este campo, mostrando la capacidad de resolver tareas novedosas y difíciles que abarcan diversas áreas. A pesar de esto, aún queda mucho por hacer para crear una versión completa de un sistema de inteligencia artificial general, pero la investigación y el avance en este campo son prometedores para el futuro de la tecnología y la IA.
+
+# Recursos para profundizar
+
+Link al artículo de MicroSoft: [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/pdf/2303.12712.pdf){target="_blank"}
+
+Ampliación de la revista [TIME](https://time.com/){target="_blank"} sobre la carta abierta mencionada [Elon Musk Signs Open Letter Urging AI Labs to Pump the Brakes](https://time.com/6266679/musk-ai-open-letter/){target="_blank"}
+
+Jaime Rodriguez de Santiago explica, en su podcast [Kaizen](https://www.jaimerodriguezdesantiago.com/){target="_blank"} los detalles de la inteligencia artificial en un capítulo especial de dos partes: [link a la primera](https://spotify.link/daJgNoLKPyb){target="_blank"} parte, [link a la segunda parte](https://spotify.link/vVUfUMMKPyb){target="_blank"}.
+
+En [este video](https://www.tiktok.com/@taramonication/video/7216272871025380613){target="_blank"}, [@taramonication](https://www.tiktok.com/@taramonication/){target="_blank"} explica su punto de vista sobre los modelos masivos de procesamiento de lenguaje natural.
+
+
+
+
+
+
