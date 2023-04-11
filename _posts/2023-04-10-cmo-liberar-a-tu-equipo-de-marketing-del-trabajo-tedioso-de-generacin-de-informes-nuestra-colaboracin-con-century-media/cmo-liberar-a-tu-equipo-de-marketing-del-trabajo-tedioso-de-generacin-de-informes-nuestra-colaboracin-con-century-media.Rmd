@@ -1,5 +1,5 @@
 ---
-title: "Cómo liberar a tu equipo de marketing del trabajo tedioso de generación de informes: nuestra colaboración con Century Media"
+title: "Libera a tu equipo de marketing del tedio de generar informes: colaborando con Century Media"
 description: |
   Te contamos cómo ayudamos a Century Media, la agencia de medios de capital nacional más grande del país, a modernizar su proceso de análisis en marketing. Pasamos de hojas de cálculo a una solución a medida que automatizó el análisis y la presentación de informes. Ahora, los analistas de Century Media pueden concentrarse en el análisis de datos y la generación de conclusiones en lugar de gastar tiempo en la preparación manual de informes. ¿Quieres liberar a tu equipo de marketing de tareas tediosas y concentrarte en resultados? Contáctanos y descubre cómo podemos ayudarte.
 author:
@@ -10,7 +10,7 @@ base_url: https://blog.deepthinking.com.co/posts/2023-04-10-cmo-liberar-a-tu-equ
 output:
   distill::distill_article:
     self_contained: false
-preview: logo-slogan.png
+preview: final_century.png
 categories:
   - Automatización de procesos
   - Casos de éxito
@@ -23,7 +23,7 @@ categories:
 
 El mundo del marketing es un mundo en constante evolución, donde la tecnología y los datos son los pilares fundamentales para el éxito de una estrategia de marketing efectiva. En este contexto, los datos de la competencia son una herramienta clave para entender el mercado y mejorar la posición de una marca en él. Sin embargo, el proceso de análisis de estos datos puede ser tedioso y consume mucho tiempo, como le sucedía a nuestro cliente [Century Media](https://century-media.net/){target="_blank"}. En este post, te contamos cómo ayudamos a Century Media a optimizar su proceso de análisis de datos con nuestra solución a medida.
 
-![Century Media](logo-slogan.png)
+![Century Media](final_century.png)
 
 En esta ocasión nuestro cliente fue Century Media. Una agencia de medios de capital nacional con más de 20 años de experiencia en el mercado. Como consultores de marca, aplican la estrategia adecuada, el entendimiento de los datos y las habilidades propias de negociación para conectar las marcas con sus audiencias de forma inusual. Con su conocimiento y experiencia, Century Media se especializa en entender los hábitos, preferencias, motivaciones y actitudes de la gente, así como las variables de cada mercado, logrando conexiones inteligentes entre las marcas y sus consumidores.
 
