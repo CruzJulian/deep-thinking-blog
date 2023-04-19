@@ -1,22 +1,22 @@
 ---
-title: "Estos son los modelos de analítica que podemos implementar según nuestro nivel de madurez tecnológica"
+title: "Top modelos de analítica según nuestra de madurez tecnológica"
 description: |
   Existen diferentes modelos de analítica para que las empresas puedan tomar decisiones informadas y mejorar su eficacia en marketing. No todas las empresas tienen el mismo nivel de madurez tecnológica y, por lo tanto, algunas herramientas pueden ser más efectivas que otras dependiendo de la capacidad tecnológica de la empresa.
 author:
   - name: Deep Thinking
     url: https://deepthinking.com.co/
-date: 2023-04-06
-base_url: https://blog.deepthinking.com.co/posts/2023-04-06-estos-son-los-modelos-de-analtica-que-podemos-implementar-segn-nuestro-nivel-de-madurez-tecnolgica/
+date: 2023-04-19
+base_url: https://blog.deepthinking.com.co/posts/2023-04-19-top-modelos-de-analtica-segn-nuestra-de-madurez-tecnolgica
 output:
   distill::distill_article:
     self_contained: false
 preview: sales.jpg
-draft: true
 categories:
   - Marketing
   - Inteligencia de negocios
   - Analítica
 ---
+
 
 Los modelos de analítica son herramientas poderosas para que las empresas puedan tomar decisiones informadas y mejorar su eficacia en marketing. Sin embargo, no todas las empresas tienen el mismo nivel de madurez tecnológica, lo que significa que algunas herramientas pueden ser más efectivas que otras dependiendo de la capacidad tecnológica de la empresa. En este artículo, exploraremos los modelos de analítica más rentables en marketing según el nivel de madurez tecnológica de las empresas.
 
